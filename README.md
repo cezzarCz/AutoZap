@@ -46,6 +46,8 @@ Para facilitar o uso por outros membros da equipe, o programa foi disponibilizad
 2. **AutoZap - Arquivos:**
 
    - No WhatsApp do celular, crie um grupo chamado `Robô` (exatamente como está escrito) e envie a mensagem/arquivo que será encaminhado.
+   - Exemplo de grupo:
+     <img src="prints/GroupExample.png.png" alt="Exemplo de grupo" width="250" style="vertical-align: middle; margin-top: 10px; margin-bottom: 10px;">
    - Exclua mensagens anteriores no grupo, deixando apenas a última que será enviada.
 
 3. **Executar o Programa:**
