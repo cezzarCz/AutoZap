@@ -36,12 +36,16 @@ Para facilitar o uso por outros membros da equipe, o programa foi disponibilizad
 
    - Crie uma planilha no Excel com os contatos no formato específico:
      - **AutoZap - Arquivos:** Coluna "A" com os números **sem o DDD e sem o dígito 9 adicional** (ex.: `80808080`).
+       Exemplo de como deve ficar:
+       ![Exemplo Planilha AutoZap Arquivos](prints/PlanArq.png)
      - **AutoZap - Texto:** Coluna "A" com os números **com DDD e o dígito 9** (ex.: `61980808080`).
+       Exemplo de como deve ficar:
+       ![Exemplo Planilha AutoZap Arquivos](prints/PlanText.png)
    - Certifique-se de que a primeira linha da coluna "A" contém o cabeçalho `Celular`.
 
 2. **AutoZap - Arquivos:**
 
-   - No WhatsApp do celular, crie um grupo chamado `Robô` e envie a mensagem/arquivo que será encaminhado.
+   - No WhatsApp do celular, crie um grupo chamado `Robô` (exatamente como está escrito) e envie a mensagem/arquivo que será encaminhado.
    - Exclua mensagens anteriores no grupo, deixando apenas a última que será enviada.
 
 3. **Executar o Programa:**
@@ -54,6 +58,8 @@ Para facilitar o uso por outros membros da equipe, o programa foi disponibilizad
 
 4. **Finalizar:**
    - Ao final, o programa exibirá uma mensagem de conclusão. Verifique se todos os contatos receberam a mensagem.
+     - Tela final:
+       <img src="prints/Conclusion.png" alt="Exemplo Planilha AutoZap Arquivos" width="250" style="vertical-align: middle; margin-top: 10px; margin-bottom: 10px;">
 
 ---
 
