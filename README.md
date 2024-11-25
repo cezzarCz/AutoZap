@@ -1,12 +1,5 @@
 # AutoZap
 
-Automação em Python para envio de mensagens de Texto/Arquivos via WhatsApp.
-Com base nas informações fornecidas, aqui está o conteúdo sugerido para o arquivo `README.md` do seu projeto **AutoZap**. Ele está estruturado de forma clara e profissional para apresentar o projeto no GitHub:
-
----
-
-# AutoZap
-
 **AutoZap** é uma automação web desenvolvida em Python para facilitar o envio de mensagens de texto ou arquivos em massa para uma lista de contatos previamente definida. Diferente da função de listas de transmissão do WhatsApp, o **AutoZap** permite o envio mesmo que o contato destinatário não tenha o número de origem salvo.
 
 ---
