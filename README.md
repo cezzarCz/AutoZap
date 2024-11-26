@@ -32,6 +32,8 @@ Para facilitar o uso por outros membros da equipe, o programa foi disponibilizad
 
 ### Passo a Passo de Uso
 
+_O passo a passo a seguir se difere minimamente entre o AutoZap Arquivos e o AutoZap Textos, diferenças essas que serão destacadas a seguir_
+
 1. **Preparar a Planilha de Contatos:**
 
    - Crie uma planilha no Excel com os contatos no formato específico:
@@ -57,6 +59,12 @@ Para facilitar o uso por outros membros da equipe, o programa foi disponibilizad
    - Localize o executável (`AutoZap_arquivosV2.exe` ou `AutoZap_text.exe`).
    - Clique duas vezes para iniciar.
    - Selecione a planilha de contatos quando solicitado.
+   - **Para o AutoZap Texto:** Após selecionar a planilha de contatos, aguarde a janela de texto aparecer, insira a mensagem que será enviada, siga os padrões de formatação do WhatsApp.
+     - Imagem ilustrativa:
+       <div align="left">
+         <img src="prints/Text.png" alt="Print da caixa de texto" width="300">
+       </div>
+     - [Guia Oficial de formatação de mensagens WhatsApp](https://faq.whatsapp.com/539178204879377/?locale=pt_BR&cms_platform=web)
    - Faça login no WhatsApp Web escaneando o QR Code.
    - O envio será iniciado automaticamente.
 
