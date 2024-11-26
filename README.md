@@ -32,23 +32,23 @@ Para facilitar o uso por outros membros da equipe, o programa foi disponibilizad
 
 ### Passo a Passo de Uso
 
-_O passo a passo a seguir se difere minimamente entre o AutoZap Arquivos e o AutoZap Textos, diferenças essas que serão destacadas a seguir_
+_O passo a passo a seguir se difere minimamente entre o AutoZap Arquivo e o AutoZap Texto, diferenças essas que serão destacadas a seguir_
 
 1. **Preparar a Planilha de Contatos:**
 
    - Crie uma planilha no Excel com os contatos no formato específico:
-     - **1.1 AutoZap Arquivos:**  
+     - **1.1 AutoZap Arquivo:**  
        Coluna "A" com os números **sem o DDD e sem o dígito 9 adicional** (ex.: `80808080`).
        Exemplo de como deve ficar:
-       ![Exemplo Planilha AutoZap Arquivos](prints/PlanArq.png)
-     - **1.2 AutoZap Textos:**  
+       ![Exemplo Planilha AutoZap Arquivo](prints/PlanArq.png)
+     - **1.2 AutoZap Texto:**  
        Coluna "A" com os números **com DDD e o dígito 9** (ex.: `61980808080`).
        Exemplo de como deve ficar:
-       ![Exemplo Planilha AutoZap Arquivos](prints/PlanText.png)
+       ![Exemplo Planilha AutoZap Texto](prints/PlanText.png)
    - Certifique-se de que a primeira linha da coluna "A" contém o cabeçalho `Celular`.
 
-2. **AutoZap Arquivos:**
-   **_Pule esta etapa se pretende utilizar o AutoZap Textos_**
+2. **AutoZap Arquivo:**
+   **_Pule esta etapa se pretende utilizar o AutoZap Texto_**
 
    - No WhatsApp do celular, crie um grupo chamado `Robô` (exatamente como está escrito) e envie a mensagem/arquivo que será encaminhado.
      - Exemplo de grupo, contendo o número que enviará as mensagens:
@@ -75,7 +75,7 @@ _O passo a passo a seguir se difere minimamente entre o AutoZap Arquivos e o Aut
    - Ao final, o programa exibirá uma mensagem de conclusão (Minimize tanto o navegador Chrome quanto o terminal, caso tenha sido aberto). Verifique se todos os contatos receberam a mensagem.
      - Print da tela final:
      <div align="left">
-       <img src="prints/Conclusion.png" alt="Exemplo Planilha AutoZap Arquivos" width="250" style="vertical-align: middle; margin-top: 10px; margin-bottom: 10px;">
+       <img src="prints/Conclusion.png" alt="Exemplo Planilha AutoZap Arquivo" width="250" style="vertical-align: middle; margin-top: 10px; margin-bottom: 10px;">
      </div>
 
 ---
