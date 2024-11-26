@@ -1,6 +1,6 @@
 # AutoZap
 
-**AutoZap** é uma automação web desenvolvida em Python para facilitar o envio de mensagens de texto ou arquivos em massa para uma lista de contatos previamente definida. Diferentemente da função de listas de transmissão do WhatsApp, o **AutoZap** possibilita o envio de mensagens a destinatários ainda que o contato de origem não esteja armazenado no smartphone do recebedor.
+**AutoZap** é uma automação web desenvolvida em Python para facilitar o envio de mensagens de texto ou arquivos em massa para uma lista de contatos previamente definida. Diferentemente da função de listas de transmissão do WhatsApp, a aplicação possibilita o envio de mensagens a destinatários ainda que o contato de origem não esteja armazenado no smartphone do recebedor.
 
 ---
 
@@ -46,6 +46,7 @@ _O passo a passo a seguir se difere minimamente entre o AutoZap Arquivos e o Aut
    - Certifique-se de que a primeira linha da coluna "A" contém o cabeçalho `Celular`.
 
 2. **AutoZap - Arquivos:**
+   _Esta etapa_
 
    - No WhatsApp do celular, crie um grupo chamado `Robô` (exatamente como está escrito) e envie a mensagem/arquivo que será encaminhado.
      - Exemplo de grupo, contendo o número que enviará as mensagens:
@@ -102,7 +103,8 @@ Este projeto está sob a **Licença de Uso Restrito**. O uso comercial é proibi
 
 ## 🤝 Contribuições
 
-Contribuições são bem-vindas! Para sugestões ou melhorias, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
+- Contribuições são bem-vindas!
+- Para sugestões ou melhorias, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
 
 ---
 
