@@ -6,11 +6,11 @@
 
 ## 📋 Funcionalidades
 
-- **Envio em Massa de Mensagens de Texto (AutoZap Text):**
+- **Envio em Massa de Mensagens de Texto (AutoZap Texto):**
 
   - Envia mensagens de texto personalizadas para cada número contido em uma planilha Excel.
 
-- **Encaminhamento de Arquivos (AutoZap Arquivos):**
+- **Encaminhamento de Arquivos (AutoZap Arquivo):**
   - Encaminha arquivos ou mensagens anexadas a um grupo do WhatsApp para contatos contidos na planilha Excel, em lotes de 5 contatos por vez.
 
 ---
@@ -37,17 +37,17 @@ _O passo a passo a seguir se difere minimamente entre o AutoZap Arquivos e o Aut
 1. **Preparar a Planilha de Contatos:**
 
    - Crie uma planilha no Excel com os contatos no formato específico:
-     - **1.1 - AutoZap - Arquivos:**  
+     - **1.1 AutoZap Arquivos:**  
        Coluna "A" com os números **sem o DDD e sem o dígito 9 adicional** (ex.: `80808080`).
        Exemplo de como deve ficar:
        ![Exemplo Planilha AutoZap Arquivos](prints/PlanArq.png)
-     - **1.2 - AutoZap - Textos:**  
+     - **1.2 AutoZap Textos:**  
        Coluna "A" com os números **com DDD e o dígito 9** (ex.: `61980808080`).
        Exemplo de como deve ficar:
        ![Exemplo Planilha AutoZap Arquivos](prints/PlanText.png)
    - Certifique-se de que a primeira linha da coluna "A" contém o cabeçalho `Celular`.
 
-2. **AutoZap - Arquivos:**
+2. **AutoZap Arquivos:**
    **_Pule esta etapa se pretende utilizar o AutoZap Textos_**
 
    - No WhatsApp do celular, crie um grupo chamado `Robô` (exatamente como está escrito) e envie a mensagem/arquivo que será encaminhado.
