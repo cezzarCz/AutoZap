@@ -37,22 +37,24 @@ _O passo a passo a seguir se difere minimamente entre o AutoZap Arquivos e o Aut
 1. **Preparar a Planilha de Contatos:**
 
    - Crie uma planilha no Excel com os contatos no formato específico:
-     - **1.1 - AutoZap - Arquivos:** Coluna "A" com os números **sem o DDD e sem o dígito 9 adicional** (ex.: `80808080`).
-       - Exemplo de como deve ficar:
-         ![Exemplo Planilha AutoZap Arquivos](prints/PlanArq.png)
-     - **1.2 - https://github.com/cezzarCz/AutoZapAutoZap - Texto:** Coluna "A" com os números **com DDD e o dígito 9** (ex.: `61980808080`).
+     - **1.1 - AutoZap - Arquivos:**  
+       Coluna "A" com os números **sem o DDD e sem o dígito 9 adicional** (ex.: `80808080`).
+       Exemplo de como deve ficar:
+       ![Exemplo Planilha AutoZap Arquivos](prints/PlanArq.png)
+     - **1.2 - AutoZap - Textos:**  
+       Coluna "A" com os números **com DDD e o dígito 9** (ex.: `61980808080`).
        Exemplo de como deve ficar:
        ![Exemplo Planilha AutoZap Arquivos](prints/PlanText.png)
    - Certifique-se de que a primeira linha da coluna "A" contém o cabeçalho `Celular`.
 
 2. **AutoZap - Arquivos:**
-   _Esta etapa_
+   **_Pule esta etapa se pretende utilizar o AutoZap Textos_**
 
    - No WhatsApp do celular, crie um grupo chamado `Robô` (exatamente como está escrito) e envie a mensagem/arquivo que será encaminhado.
      - Exemplo de grupo, contendo o número que enviará as mensagens:
-     <div align="left">
-     <img src="prints/GroupExample.png" alt="Exemplo do grupo chamado 'Robô'" width='200px'>
-     </div>
+        <div align="left">
+        <img src="prints/GroupExample.png" alt="Exemplo do grupo chamado 'Robô'" width='200px'>
+        </div>
    - Exclua mensagens anteriores no grupo, deixando apenas a última que será enviada.
 
 3. **Executar o Programa:**
@@ -103,8 +105,8 @@ Este projeto está sob a **Licença de Uso Restrito**. O uso comercial é proibi
 
 ## 🤝 Contribuições
 
-- Contribuições são bem-vindas!
-- Para sugestões ou melhorias, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
+Contribuições são bem-vindas!  
+Para sugestões ou melhorias, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
 
 ---
 
