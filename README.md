@@ -22,7 +22,7 @@ Para utilizar o **AutoZap**, é necessário:
 - **Planilha em Excel:** No formato adequado, contendo os contatos dos destinatários.
 - **Navegador Chrome:** Deve estar instalado no computador.
 - **Smartphone:** Para login no WhatsApp Web.
-- **Grupo do WhatsApp:** Necessário para o envio de arquivos (mais detalhes abaixo).
+- **Grupo do WhatsApp (Somente para AutoZap Arquivo):**, para o envio de arquivos (mais detalhes abaixo).
 
 ---
 
