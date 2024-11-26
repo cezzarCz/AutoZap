@@ -1,6 +1,6 @@
 # AutoZap
 
-**AutoZap** é uma automação web desenvolvida em Python para facilitar o envio de mensagens de texto ou arquivos em massa para uma lista de contatos previamente definida. Diferente da função de listas de transmissão do WhatsApp, o **AutoZap** permite o envio mesmo que o contato destinatário não tenha o número de origem salvo.
+**AutoZap** é uma automação web desenvolvida em Python para facilitar o envio de mensagens de texto ou arquivos em massa para uma lista de contatos previamente definida. Diferentemente da função de listas de transmissão do WhatsApp, o **AutoZap** possibilita o envio de mensagens á destinatários ainda que o contato de origem não esteja armazenado no smartphone do recebedor.
 
 ---
 
@@ -37,10 +37,10 @@ _O passo a passo a seguir se difere minimamente entre o AutoZap Arquivos e o Aut
 1. **Preparar a Planilha de Contatos:**
 
    - Crie uma planilha no Excel com os contatos no formato específico:
-     - **AutoZap - Arquivos:** Coluna "A" com os números **sem o DDD e sem o dígito 9 adicional** (ex.: `80808080`).
-       Exemplo de como deve ficar:
-       ![Exemplo Planilha AutoZap Arquivos](prints/PlanArq.png)
-     - **AutoZap - Texto:** Coluna "A" com os números **com DDD e o dígito 9** (ex.: `61980808080`).
+     - **1.1 - AutoZap - Arquivos:** Coluna "A" com os números **sem o DDD e sem o dígito 9 adicional** (ex.: `80808080`).
+       - Exemplo de como deve ficar:
+         ![Exemplo Planilha AutoZap Arquivos](prints/PlanArq.png)
+     - **1.2 - https://github.com/cezzarCz/AutoZapAutoZap - Texto:** Coluna "A" com os números **com DDD e o dígito 9** (ex.: `61980808080`).
        Exemplo de como deve ficar:
        ![Exemplo Planilha AutoZap Arquivos](prints/PlanText.png)
    - Certifique-se de que a primeira linha da coluna "A" contém o cabeçalho `Celular`.
